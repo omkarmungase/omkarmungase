@@ -1,10 +1,10 @@
-# 👋 Omkar Mungase
+
 
 <h3 align="center">Frontend Developer • Three.js • Machine Learning • Creative UI</h3>
 
 ---
 
-# 💬 Core Technologies
+#  Core Technologies
 
 ## Languages
 
