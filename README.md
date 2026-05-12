@@ -1,27 +1,63 @@
-👋 Hi, I'm Omkar Mungase
+# 👋 Omkar Mungase
 
-Frontend Developer focused on creative and interactive web experiences.
+<h3 align="center">Frontend Developer • Three.js • Machine Learning • Creative UI</h3>
 
-🚀 Skills
+---
 
-HTML • CSS • JavaScript • Python • C++ • Three.js • GSAP • Machine Learning • DSA • Git & GitHub
+# 💬 Core Technologies
 
-💻 Experience
+## Languages
 
-- Frontend Development
-- 3D Web Development
-- Creative UI Design
-- AI & ML Projects
-- LeetCode Problem Solving
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" />
+</p>
 
-🎯 Currently Learning
+<p align="center">
+Python • C++ • Java • JavaScript • TypeScript
+</p>
 
-Advanced Three.js • Full Stack Development • Deep Learning
+---
 
-📸 Interests
+## Libraries & Frameworks
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=threejs,tensorflow,pytorch" />
+</p>
+
+<p align="center">
+Three.js • TensorFlow • PyTorch
+</p>
+
+---
+
+## Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,git,github" />
+</p>
+
+<p align="center">
+HTML • CSS • Git • GitHub
+</p>
+
+---
+
+## Problem Solving
+
+<p align="center">
+DSA • OOP • LeetCode
+</p>
+
+---
+
+## Interests
+
+<p align="center">
 Photography • Videography
+</p>
 
-🌐 Connect
+---
 
-GitHub: https://github.com/omkarmungase
+<p align="center">
+  🌐 github.com/omkarmungase
+</p>
